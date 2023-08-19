@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- ... (your existing meta tags and styles) ... -->
+</head>
+<body>
+    <header>
+        <h1>Riyan Upcoming Shah Rukh Khan Team</h1>
+    </header>
+    <div class="container">
+        <!-- ... (your existing content about Riyan) ... -->
+    </div>
+    <div class="container2">
+        <!-- ... (your existing content about Rehan) ... -->
+    </div>
+    <div class="container2">
+        <!-- ... (your existing Rehan images) ... -->
+    </div>
+    <div class="container3">
+        <!-- ... (your existing content about the Glorious Leader) ... -->
+    </div>
+    
+    <!-- Additional Sections -->
+    <div class="container">
+        <h2>Upcoming Projects</h2>
+        <p>We're thrilled to announce that our team, led by Riyan, is working on some exciting projects that will surely take the world by storm. Stay tuned for more updates as we reveal the details and progress of these upcoming ventures.</p>
+    </div>
+    
+    <div class="container2">
+        <h2>Join Our Team</h2>
+        <p>If you're passionate about innovation, teamwork, and making a difference, consider joining our dynamic group. We're always on the lookout for talented individuals who can contribute their skills to our projects. Connect with us and let's create something amazing together!</p>
+        <button class="styled" type="button" onclick="alert('Contact us to learn more')">Join Us</button>
+    </div>
+    
+    <div class="container3">
+        <h2>Community Engagement</h2>
+        <p>At Riyan Upcoming Shah Rukh Khan Team, we believe in giving back to the community. We actively participate in various social initiatives, from educational programs to environmental campaigns. Check out some snapshots from our recent community events.</p>
+        <img src="community-event1.jpg" alt="Community Event 1">
+        <img src="community-event2.jpg" alt="Community Event 2">
+        <img src="community-event3.jpg" alt="Community Event 3">
+    </div>
+</body>
+</html>
